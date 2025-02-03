@@ -1,1 +1,1 @@
-# Link to the Datsets in the paper ``A Guide to Image and Video based Small Object Detection using Deep Learning: Case Study of Maritime Surveillance''.
+# Link to the datasets mentioned in the paper titled "A Guide to Image and Video-Based Small Object Detection Using Deep Learning: A Case Study of Maritime Surveillance."
