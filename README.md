@@ -6,6 +6,13 @@
 
 Email: aref.mirirekavandi@gmail.com
 
+# Generic Small Object Detection Datasets (Last Update: 4/02/2025)
+
+Detection performance for objects on DOTA image dataset. MS: Multi-scale network, FT: Fine-tuned, FPN: Feature pyramid network, IN: Pre-trained on ImageNet.
+
+| Datasets | URL |
+| -------- | -------- |
+| MS COCO |https://cocodataset.org|
 
 # Citations
 If you found this page helpful, please cite the following survey paper:
