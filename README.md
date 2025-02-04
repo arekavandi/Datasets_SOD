@@ -8,8 +8,6 @@ Email: aref.mirirekavandi@gmail.com
 
 # Generic Small Object Detection Datasets (Last Update: 4/02/2025)
 
-Detection performance for objects on DOTA image dataset. MS: Multi-scale network, FT: Fine-tuned, FPN: Feature pyramid network, IN: Pre-trained on ImageNet.
-
 | Datasets | URL |
 | -------- | -------- |
 | MS COCO |https://cocodataset.org|
@@ -24,6 +22,28 @@ Detection performance for objects on DOTA image dataset. MS: Multi-scale network
 |DeepScores|https://tuggeluk.github.io/deepscores/ |
 |HVD |https://drive.google.com/file/d/1li858elZvUgss8rC_yDsb5bDfiRyhdrX/view|
 |KITTI |http://www.cvlibs.net/datasets/kitti/ |
+|Caltech |http://www.vision.caltech.edu/Image_Datasets/CaltechPedestrians/ |
+|UAVDT |https://sites.google.com/view/grli-uavdt |
+|VisDrone2021 |http://www.aiskyeye.com/ |
+|Neovision2 Tower | http://ilab.usc.edu/neo2/dataset/|
+|NWPU VHR-10 | http://pan.baidu.com/s/1c0w8h3q|
+|DOTA | https://captain-whu.github.io/DOTA/|
+|xView | http://xviewdataset.org/|
+|VEDAI |https://downloads.greyc.fr/vedai/ |
+|DIOR |http://www.escience.cn/people/gongcheng/DIOR.html |
+
+# Maritime Small Object Detection Datasets (Last Update: 4/02/2025)
+
+Detection performance for objects on DOTA image dataset. MS: Multi-scale network, FT: Fine-tuned, FPN: Feature pyramid network, IN: Pre-trained on ImageNet.
+
+| Datasets | URL |
+| -------- | -------- |
+|TinyPerson |https://github.com/ucas-vg/TinyBenchmark |
+|HRSC2016 |https://www.kaggle.com/guofeng/hrsc2016?select=HRSC2016_dataset.zip |
+|WSODD|https://github.com/
+sunjiaen/WSODD; https://github.com/sunjiaen/BTRDA|
+|Seagull|https://vislab.isr.tecnico.ulisboa.pt/seagull-dataset/ |
+
 
 
 # Citations
