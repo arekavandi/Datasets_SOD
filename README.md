@@ -40,7 +40,7 @@ Detection performance for objects on DOTA image dataset. MS: Multi-scale network
 | -------- | -------- |
 |TinyPerson |https://github.com/ucas-vg/TinyBenchmark |
 |HRSC2016 |https://www.kaggle.com/guofeng/hrsc2016?select=HRSC2016_dataset.zip |
-|WSODD|https://github.com/sunjiaen/WSODD; https://github.com/sunjiaen/BTRDA|
+|WSODD|https://github.com/sunjiaen/WSODD|
 |Seagull|https://vislab.isr.tecnico.ulisboa.pt/seagull-dataset/ |
 
 
