@@ -5,3 +5,16 @@
 **For adding your datasets to the tables below, please send us an email including a link to the dataset.**
 
 Email: aref.mirirekavandi@gmail.com
+
+
+# Citations
+If you found this page helpful, please cite the following survey papers:
+
+```
+@article{rekavandi2023transformers,
+  title={Transformers in Small Object Detection: A Benchmark and Survey of State-of-the-Art},
+  author={Rekavandi Miri, Aref and Rashidi, Shima and Boussaid, Farid and Hoefs, Stephen and Akbas, Emre and Bennamoun, Mohammed},
+  journal={IEEE Transactions on Intelligent Transportation Systems},
+  year={2025}
+}
+```
