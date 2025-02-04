@@ -19,12 +19,11 @@ Detection performance for objects on DOTA image dataset. MS: Multi-scale network
 |Tsinghua-Tencent  100K | https://cg.cs.tsinghua.edu.cn/traffic-sign/|
 |GTSDB |https://benchmark.ini.rub.de/ |
 |CURE-TSD | https://github.com/olivesgatech/CURE-TSD|
-| CURE-OR| https://github.com/olivesgatech/CURE-OR|
-| | |
-| | |
-| | |
-| | |
-| | |
+|CURE-OR| https://github.com/olivesgatech/CURE-OR|
+|WIDER FACE |http://shuoyang1213.me/WIDERFACE/ |
+|DeepScores|https://tuggeluk.github.io/deepscores/ |
+|HVD |https://drive.google.com/file/d/1li858elZvUgss8rC_yDsb5bDfiRyhdrX/view|
+|KITTI |http://www.cvlibs.net/datasets/kitti/ |
 
 
 # Citations
