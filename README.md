@@ -8,7 +8,7 @@ Email: aref.mirirekavandi@gmail.com
 
 
 # Citations
-If you found this page helpful, please cite the following survey papers:
+If you found this page helpful, please cite the following survey paper:
 
 ```
 @article{rekavandi2023transformers,
