@@ -13,6 +13,14 @@ Detection performance for objects on DOTA image dataset. MS: Multi-scale network
 | Datasets | URL |
 | -------- | -------- |
 | MS COCO |https://cocodataset.org|
+| ImageNet Vid |https://www.kaggle.com/competitions/imagenet-object-localization-challenge/data|
+|Lost and Found |https://www.6d-vision.com/6d-vision-powers-autonomous-driving |
+|STS | https://www.cvl.isy.liu.se/research/|
+|Tsinghua-Tencent  100K | https://cg.cs.tsinghua.edu.cn/traffic-sign/|
+| | |
+| | |
+| | |
+
 
 # Citations
 If you found this page helpful, please cite the following survey paper:
