@@ -34,14 +34,20 @@ Email: aref.mirirekavandi@gmail.com
 
 # Maritime Small Object Detection Datasets (Last Update: 4/02/2025)
 
-Detection performance for objects on DOTA image dataset. MS: Multi-scale network, FT: Fine-tuned, FPN: Feature pyramid network, IN: Pre-trained on ImageNet.
-
 | Datasets | URL |
 | -------- | -------- |
 |TinyPerson |https://github.com/ucas-vg/TinyBenchmark |
 |HRSC2016 |https://www.kaggle.com/guofeng/hrsc2016?select=HRSC2016_dataset.zip |
 |WSODD|https://github.com/sunjiaen/WSODD|
 |Seagull|https://vislab.isr.tecnico.ulisboa.pt/seagull-dataset/ |
+|SMD|https://sites.google.com/site/dilipprasad/home/singapore-maritime-dataset|
+|MarDCT|http://www.diag.uniroma1.it//~labrococo/MAR/|
+|MODD | https://www.vicos.si/resources/modd/|
+|ShipRSImageNet |https://github.com/zzndream/ShipRSImageNet |
+|Airbus Ship |https://www.kaggle.com/c/airbus-ship-detection/data |
+|SeaDronesSees |https://seadronessee.cs.uni-tuebingen.de./ |
+|MOBDrone |http://aimh.isti.cnr.it/dataset/MOBDrone/ |
+
 
 
 
