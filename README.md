@@ -17,6 +17,11 @@ Detection performance for objects on DOTA image dataset. MS: Multi-scale network
 |Lost and Found |https://www.6d-vision.com/6d-vision-powers-autonomous-driving |
 |STS | https://www.cvl.isy.liu.se/research/|
 |Tsinghua-Tencent  100K | https://cg.cs.tsinghua.edu.cn/traffic-sign/|
+|GTSDB |https://benchmark.ini.rub.de/ |
+|CURE-TSD | https://github.com/olivesgatech/CURE-TSD|
+| CURE-OR| https://github.com/olivesgatech/CURE-OR|
+| | |
+| | |
 | | |
 | | |
 | | |
