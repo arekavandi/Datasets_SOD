@@ -55,9 +55,9 @@ Email: aref.mirirekavandi@gmail.com
 If you found this page helpful, please cite the following survey paper:
 
 ```
-@article{rekavandi2023transformers,
-  title={Transformers in Small Object Detection: A Benchmark and Survey of State-of-the-Art},
-  author={Rekavandi Miri, Aref and Rashidi, Shima and Boussaid, Farid and Hoefs, Stephen and Akbas, Emre and Bennamoun, Mohammed},
+@article{rekavandi2025guide,
+  title={A guide to image and video based small object detection using deep learning: Case study of maritime surveillance},
+  author={Miri Rekavandi, Aref and Xu, Lian and Boussaid, Farid and Seghouane, Abd-Krim and Hoefs, Stephen and Bennamoun, Mohammed},
   journal={IEEE Transactions on Intelligent Transportation Systems},
   year={2025}
 }
